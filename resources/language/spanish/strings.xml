@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+
+    <string id="30010">Ajustes</string>
+    <string id="30011">Exttensiones de archivo</string>
+    <string id="30012">Log perdido</string>
+	<string id="30013">Log perdido en</string>
+    <string id="30014">Palabras en la lista negra</string>
+    <string id="30015">Logging de debbug</string>
+    
+    <string id="30105">Escaneados : {0} Directorios {1} Archivos</string>
+    <string id="30106">Procesados : {0} Directorios, {1}  Archivos, {2} Coincidencias</string>
+    <string id="30107">Archivos encontrados : {0}</string>
+    <string id="30108">Ruta : {0}</string>
+    
+    <string id="30109">Error en la ruta origen</string>
+    <string id="30110">Error navegando a la ruta de origen.</string>
+    
+    <string id="30111">Autoescanear fuentes de películas</string>
+    <string id="30112">Autoescanear fuentes de TV</string>
+    <string id="30113">Mostrar rutas de origen</string>
+    
+    <string id="30114">No se han encontrado películas</string>
+    <string id="30115">No hay películas en tu biblioteca</string>
+    
+    <string id="30116">No se han encontrado episodios de TV</string>
+    <string id="30117">No hay episodios de TV en tu librería</string>   
+
+    <string id="30118">Ejecutando escaneo</string>  
+    <string id="30119">Escaneado iniciado</string>
+    
+    <string id="30120">Obteniendo elementos en la biblioteca</string>
+    <string id="30121">Navegando por las rutas de multimedia</string>
+    
+    <string id="30122">Log Error</string>
+    <string id="30123">La ruta de log no existe</string>    
+    <string id="30124">Error escribiendo en la ruta de log : {0}</string>
+
+    <string id="30125">NO hay elementos perdidos</string>
+    
+    <string id="30126">Resultados perdidos del escaneado</string>
+    <string id="30127">Perdidos : {0}</string>
+    <string id="30128">Log : {0}</string>
+    <string id="30129">Tipos de archivos ignorados</string>
+</strings>
+
